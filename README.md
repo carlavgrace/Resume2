@@ -97,8 +97,8 @@ Child/Family Equine Therapist.  7/13 to 6/14.
 Sandpoint Psychotherapy Associates  
 Sandpoint, Idaho.  
 
-Child/Family Equine Therapist.  1/13 to 7/13.  	
-Pascua Yaqui Tribe    
+Child/Family Equine Therapist.  1/13 to 7/13.    	
+Pascua Yaqui Tribe     
 Tucson, Arizona    
 
 Child/Family Equine Therapist.  7/11 to 2/12.    
@@ -122,8 +122,8 @@ Regional Field Representative.  4/95-4/96.
 ADP/Hollander  
 Minneapolis, Minnesota.  
 
-Counselor.  11/91-10/92.  
-Residence East Group Home 
+Counselor.  11/91-10/92.    
+Residence East Group Home   
 Bellevue, Washington.  
 
 Technical Support Manager.  1/88-12/88.  
