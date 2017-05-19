@@ -3,9 +3,9 @@
  carlavgrace@gmail.com  
  208-290-4362  
 
-## OBJECTIVE:   Seeking to re-enter the tech field as a Software Developer
+## OBJECTIVE:     Seeking to re-enter the tech field as a Software Developer
 
-## QUALIFICATIONS SUMMARY
+## QUALIFICATIONS SUMMARY:
 Systems analysis… troubleshooting computer system problems…computer system installation and software training…facilitating training seminars… business management…personnel administration and supervision… strong research skills…equine assisted mental health…marriage and family therapy… child custody evaluations… victims of sex trafficking…clinical hypnosis…Certified Anger Management Facilitator …community service
 
 ## Programming:	
@@ -59,15 +59,15 @@ American Association of Christian Counselors
 National Association of Christian Ministers
 _______________________________________________________________________________________
 ## SEMINARS/WORKSHOPS:
-	* Eye Movement Desensitization and Reprocessing (EMDR)
-	* Dialectical Behavior Therapy (DBT) 
-	* The Milton H. Erickson Foundation, Inc., Fundamental, Intermediate and Advanced
+* Eye Movement Desensitization and Reprocessing (EMDR)
+* Dialectical Behavior Therapy (DBT) 
+* The Milton H. Erickson Foundation, Inc., Fundamental, Intermediate and Advanced
 		Intensive Training in Ericksonian Approaches to Brief Hypnotic Psychotherapy.
-	* The American Association for Marriage and Family Therapy Summer Institute 2007:
+* The American Association for Marriage and Family Therapy Summer Institute 2007:
 		Essentials of Applying Clinical Hypnosis in Psychotherapy.
-	* The Gottman Institute: Marital Therapy: A Research-Based Approach, 
+* The Gottman Institute: Marital Therapy: A Research-Based Approach, 
 		The Two-Day Workshop for Clinicians.
-	* The Minuchin Center for the Family, Summer Intensive 2006.
+* The Minuchin Center for the Family, Summer Intensive 2006.
 	* Adventures in Awareness, by Barbara Rector.
 	* Horses Helping Families: A Clinic for the Enhancement of Family Mental Health.
 	* North American Riding for the Handicapped Association, Inc. 
