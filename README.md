@@ -22,8 +22,11 @@ Twenty-five years of seminar facilitation and planning.  Presented clinical skil
 ________________________________________________________________________________________
 ## EDUCATION:		
   University of Michigan (Coursera) – Python; Internet History, Technology & Security, 2015
+  
   University of Colorado  (Coursera) – Beginning Game Programming with C#, currently enrolled
+  
   Microsoft DEV204x (edX) Programming with C#, currently enrolled
+  
   TreeHouse – Learn C# Track, currently enrolled 
 
   Child and Family Concentration, completed 79 units, 2009-2012 GPA 3.9  
@@ -134,7 +137,6 @@ Seattle, Washington.
 Field Representative/Documentation Specialist. 4/85-4/86.
 Itron
 Spokane, Washington
-
 
 Lead Computer Operator.  8/82-1/85.
 Physio-Control Corp.
