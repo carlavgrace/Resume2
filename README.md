@@ -89,17 +89,17 @@ ________________________________________________________________________________
 
 ## PROFESSIONAL EXPERIENCE:
  
-###### Clinical Director/Therapist.  2/13 to present.
-Phoenix Dream Center & Integrity Counseling
-Phoenix, Arizona
+Clinical Director/Therapist.  2/13 to present.  
+Phoenix Dream Center & Integrity Counseling  
+Phoenix, Arizona  
 
-###### Child/Family Equine Therapist.  7/13 to 6/14
-Sandpoint Psychotherapy Associates
-Sandpoint, Idaho.
+Child/Family Equine Therapist.  7/13 to 6/14  
+Sandpoint Psychotherapy Associates  
+Sandpoint, Idaho.  
 
-###### Child/Family Equine Therapist.  1/13 to 7/13.	
-Pascua Yaqui Tribe
-Tucson, Arizona
+Child/Family Equine Therapist.  1/13 to 7/13.  	
+Pascua Yaqui Tribe  
+Tucson, Arizona  
 
 Child/Family Equine Therapist.  7/11 to 2/12
 Easter Seals Blake Foundation
