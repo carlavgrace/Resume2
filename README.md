@@ -3,7 +3,7 @@
  ###### carlavgrace@gmail.com
  ###### 208-290-4362
 
-**OBJECTIVE:**   Seeking to re-enter the tech field as a Software Developer *
+**OBJECTIVE:**   Seeking to re-enter the tech field as a Software Developer
 
 ## QUALIFICATIONS SUMMARY
 Systems analysis… troubleshooting computer system problems…computer system installation and software training…facilitating training seminars… business management…personnel administration and supervision… strong research skills…equine assisted mental health…marriage and family therapy… child custody evaluations… victims of sex trafficking…clinical hypnosis…Certified Anger Management Facilitator …community service
@@ -89,17 +89,17 @@ ________________________________________________________________________________
 
 ## PROFESSIONAL EXPERIENCE:
  
-Clinical Director/Therapist.  2/13 to present.
-Phoenix Dream Center & Integrity Counseling
-Phoenix, Arizona
+###### Clinical Director/Therapist.  2/13 to present.
+###### Phoenix Dream Center & Integrity Counseling
+###### Phoenix, Arizona
 
-Child/Family Equine Therapist.  7/13 to 6/14
-Sandpoint Psychotherapy Associates
-Sandpoint, Idaho.
+###### Child/Family Equine Therapist.  7/13 to 6/14
+###### Sandpoint Psychotherapy Associates
+###### Sandpoint, Idaho.
 
-Child/Family Equine Therapist.  1/13 to 7/13.	
-Pascua Yaqui Tribe
-Tucson, Arizona
+###### Child/Family Equine Therapist.  1/13 to 7/13.	
+###### Pascua Yaqui Tribe
+###### Tucson, Arizona
 
 Child/Family Equine Therapist.  7/11 to 2/12
 Easter Seals Blake Foundation
