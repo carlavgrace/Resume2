@@ -5,7 +5,7 @@
 
 **OBJECTIVE:**   Seeking to re-enter the tech field as a Software Developer *
 
-**QUALIFICATIONS SUMMARY
+## QUALIFICATIONS SUMMARY
 Systems analysis… troubleshooting computer system problems…computer system installation and software training…facilitating training seminars… business management…personnel administration and supervision… strong research skills…equine assisted mental health…marriage and family therapy… child custody evaluations… victims of sex trafficking…clinical hypnosis…Certified Anger Management Facilitator …community service
 
 **Programming:** 	C#...Python…SPSS…COBOL…FORTRAN…BASIC…RPG II
