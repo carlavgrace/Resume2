@@ -6,7 +6,7 @@
 <b>carlavgrace@gmail.com <b> </p>  
  
 <p align="center">
-<b>208-290-4362 <\b> </p>  
+<b>208-290-4362 <b> </p>  
 
 ## OBJECTIVE:  
 Seeking to re-enter the tech field as a Software Developer
