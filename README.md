@@ -22,13 +22,17 @@ Established and managed 2 Technical Support Departments and a Quality Control De
 Twenty-five years of seminar facilitation and planning.  Presented clinical skills and best practices, motivational training and business meetings to groups of 8 to 500 participants.  Created and organized seminar content.  
 ________________________________________________________________________________________
 ## EDUCATION:		
-  University of Michigan (Coursera) – Python; Internet History, Technology & Security, 2015
+  Python; Internet History, Technology & Security, 2015  
+  University of Michigan (Coursera)
   
-  University of Colorado  (Coursera) – Beginning Game Programming with C#, currently enrolled
+  Beginning Game Programming with C#, currently enrolled  
+  University of Colorado  (Coursera)
   
-  Microsoft DEV204x (edX) Programming with C#, currently enrolled
+  Programming with C#, currently enrolled  
+  Microsoft DEV204x (edX)
   
-  TreeHouse – Learn C# Track, currently enrolled 
+  Learn C# Track, currently enrolled  
+  TreeHouse
 
   Child and Family Concentration, completed 79 units, 2009-2012 GPA 3.9  
   California School of Professional Psychology/Alliant International University.
@@ -62,16 +66,16 @@ ________________________________________________________________________________
 ## SEMINARS/WORKSHOPS:
 * Eye Movement Desensitization and Reprocessing (EMDR)
 * Dialectical Behavior Therapy (DBT) 
-* The Milton H. Erickson Foundation, Inc., Fundamental, Intermediate and Advanced
+* The Milton H. Erickson Foundation, Inc., Fundamental, Intermediate and Advanced  
 	Intensive Training in Ericksonian Approaches to Brief Hypnotic Psychotherapy.
-* The American Association for Marriage and Family Therapy Summer Institute 2007:
+* The American Association for Marriage and Family Therapy Summer Institute 2007:  
 	Essentials of Applying Clinical Hypnosis in Psychotherapy.
-* The Gottman Institute: Marital Therapy: A Research-Based Approach, 
+* The Gottman Institute: Marital Therapy: A Research-Based Approach,   
 	The Two-Day Workshop for Clinicians.
 * The Minuchin Center for the Family, Summer Intensive 2006.
 * Adventures in Awareness, by Barbara Rector.
 * Horses Helping Families: A Clinic for the Enhancement of Family Mental Health.
-* North American Riding for the Handicapped Association, Inc. 
+* North American Riding for the Handicapped Association, Inc.  
 	Equine Facilitated Mental Health Association Equine Specialist. 
 * Equine Assisted Growth & Learning Association, Level I Certification. 
 * Neuro-linguistic Programming, training in behavior modification.  Certified Specialist. 
