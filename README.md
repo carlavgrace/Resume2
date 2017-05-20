@@ -106,7 +106,7 @@ Sandpoint Psychotherapy Associates
 Sandpoint, Idaho.  
 
 Child/Family Equine Therapist.    
-1/13 to 7/13.        	
+1/13 to 7/13.          	
 Pascua Yaqui Tribe     
 Tucson, Arizona    
 
@@ -121,7 +121,7 @@ Dept. of Social & Health Services
 Special Commitment Center  
 Steilacoom, Washington.  
 
-Child/Family Equine Therapist Intern. 
+Child/Family Equine Therapist Intern.  
 11/04 to 6/08.  
 Sandpoint Psychotherapy Associates  
 Sandpoint, Idaho.  
@@ -146,14 +146,17 @@ Technical Support Manager.
 Nicholson Systems  
 Seattle, Washington.  
 
-Customer/Technical Support Representative.  4/86-11/87.  
+Customer/Technical Support Representative.  
+4/86-11/87.  
 Continental DataNet Corp.  
 Seattle, Washington.  
 
-Field Representative/Documentation Specialist. 4/85-4/86.  
+Field Representative/Documentation Specialist.  
+4/85-4/86.  
 Itron  
 Spokane, Washington.  
 
-Lead Computer Operator.  8/82-1/85.  
+Lead Computer Operator.  
+8/82-1/85.  
 Physio-Control Corp.  
 Redmond, Washington.  
