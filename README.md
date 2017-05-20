@@ -1,8 +1,7 @@
-# Resume2kkk
 
 # Carla Grace   
-## carlavgrace@gmail.com  
-## 208-290-4362
+#### carlavgrace@gmail.com  
+#### 208-290-4362
 
 ## OBJECTIVE:  
 Seeking to re-enter the tech field as a Software Developer
@@ -22,7 +21,8 @@ Established and managed 2 Technical Support Departments and a Quality Control De
 ## Seminar Facilitation:	
 Twenty-five years of seminar facilitation and planning.  Presented clinical skills and best practices, motivational training and business meetings to groups of 8 to 500 participants.  Created and organized seminar content.  
 ________________________________________________________________________________________
-## EDUCATION:		
+## PROGRAMMING COURSES:  
+
   Python; Internet History, Technology & Security, 2015  
   University of Michigan (Coursera)
   
@@ -34,6 +34,8 @@ ________________________________________________________________________________
   
   Learn C# Track, currently enrolled  
   TreeHouse
+
+## EDUCATION:
 
   Child and Family Concentration, completed 79 units, 2009-2012 GPA 3.9  
   California School of Professional Psychology/Alliant International University.
