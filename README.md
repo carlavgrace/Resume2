@@ -1,7 +1,7 @@
 # Resume2kkk
 # Carla Grace  
- carlavgrace@gmail.com  
- 208-290-4362  
+ ## carlavgrace@gmail.com  
+ ## 208-290-4362  
 
 ## OBJECTIVE:  
 Seeking to re-enter the tech field as a Software Developer
@@ -9,7 +9,7 @@ Seeking to re-enter the tech field as a Software Developer
 ## QUALIFICATIONS SUMMARY:
 Systems analysis… troubleshooting computer system problems…computer system installation and software training…facilitating training seminars… business management…personnel administration and supervision… strong research skills…equine assisted mental health…marriage and family therapy… child custody evaluations… victims of sex trafficking…clinical hypnosis…Certified Anger Management Facilitator …community service
 
-## Programming:	
+## Programming Languages:	
 C#...Python…SPSS…COBOL…FORTRAN…BASIC…RPG II
 
 ## Implementation and Training:	
