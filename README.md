@@ -3,7 +3,8 @@
  carlavgrace@gmail.com  
  208-290-4362  
 
-## OBJECTIVE:     Seeking to re-enter the tech field as a Software Developer
+## OBJECTIVE:  
+Seeking to re-enter the tech field as a Software Developer
 
 ## QUALIFICATIONS SUMMARY:
 Systems analysis… troubleshooting computer system problems…computer system installation and software training…facilitating training seminars… business management…personnel administration and supervision… strong research skills…equine assisted mental health…marriage and family therapy… child custody evaluations… victims of sex trafficking…clinical hypnosis…Certified Anger Management Facilitator …community service
@@ -62,20 +63,20 @@ ________________________________________________________________________________
 * Eye Movement Desensitization and Reprocessing (EMDR)
 * Dialectical Behavior Therapy (DBT) 
 * The Milton H. Erickson Foundation, Inc., Fundamental, Intermediate and Advanced
-		Intensive Training in Ericksonian Approaches to Brief Hypnotic Psychotherapy.
+	Intensive Training in Ericksonian Approaches to Brief Hypnotic Psychotherapy.
 * The American Association for Marriage and Family Therapy Summer Institute 2007:
-		Essentials of Applying Clinical Hypnosis in Psychotherapy.
+	Essentials of Applying Clinical Hypnosis in Psychotherapy.
 * The Gottman Institute: Marital Therapy: A Research-Based Approach, 
-		The Two-Day Workshop for Clinicians.
+	The Two-Day Workshop for Clinicians.
 * The Minuchin Center for the Family, Summer Intensive 2006.
-	* Adventures in Awareness, by Barbara Rector.
-	* Horses Helping Families: A Clinic for the Enhancement of Family Mental Health.
-	* North American Riding for the Handicapped Association, Inc. 
-		Equine Facilitated Mental Health Association Equine Specialist. 
-	* Equine Assisted Growth & Learning Association, Level I Certification. 
-	* Neuro-linguistic Programming, training in behavior modification.  Certified Specialist. 
-	* Centered Method for Birthing through Hypnosis.  Certification. 
-	* Seattle Midwifery School Labor Support Course, Part 1 & 2. 
+* Adventures in Awareness, by Barbara Rector.
+* Horses Helping Families: A Clinic for the Enhancement of Family Mental Health.
+* North American Riding for the Handicapped Association, Inc. 
+	Equine Facilitated Mental Health Association Equine Specialist. 
+* Equine Assisted Growth & Learning Association, Level I Certification. 
+* Neuro-linguistic Programming, training in behavior modification.  Certified Specialist. 
+* Centered Method for Birthing through Hypnosis.  Certification. 
+* Seattle Midwifery School Labor Support Course, Part 1 & 2. 
 _______________________________________________________________________________________________________________________________________
 ## SOFTWARE:	
 MS Word…MS PowerPoint…MS Excel…MS OneNote…MS Outlook…TheraScribe… Inspiration… InspireData…QuickBooks…Genogram-Maker Millennium.
