@@ -95,44 +95,54 @@ ________________________________________________________________________________
 
 ## PROFESSIONAL EXPERIENCE:
  
-Clinical Director/Therapist.  2/13 to present.  
+Clinical Director/Therapist.    
+2/13 to present.    
 Phoenix Dream Center & Integrity Counseling  
 Phoenix, Arizona  
 
-Child/Family Equine Therapist.  7/13 to 6/14.    
+Child/Family Equine Therapist.    
+7/13 to 6/14.      
 Sandpoint Psychotherapy Associates  
 Sandpoint, Idaho.  
 
-Child/Family Equine Therapist.  1/13 to 7/13.    	
+Child/Family Equine Therapist.    
+1/13 to 7/13.        	
 Pascua Yaqui Tribe     
 Tucson, Arizona    
 
-Child/Family Equine Therapist.  7/11 to 2/12.    
+Child/Family Equine Therapist.    
+7/11 to 2/12.      
 Easter Seals Blake Foundation    
 Tucson, Arizona.    
 
-Therapist Intern.  6/08 to 12/08.  
+Therapist Intern.     
+6/08 to 12/08.    
 Dept. of Social & Health Services  
 Special Commitment Center  
 Steilacoom, Washington.  
 
-Child/Family Equine Therapist Intern. 11/04 to 6/08.  
+Child/Family Equine Therapist Intern. 
+11/04 to 6/08.  
 Sandpoint Psychotherapy Associates  
 Sandpoint, Idaho.  
 
-Seminar Facilitator & Trainer.  1989 to 2011.   
+Seminar Facilitator & Trainer.  
+1989 to 2011.   
 Self-employed.  
 Washington, Oregon, Idaho, Arizona.   
 
-Regional Field Representative.  4/95-4/96.  
+Regional Field Representative.  
+4/95-4/96.  
 ADP/Hollander  
 Minneapolis, Minnesota.  
 
-Counselor.  11/91-10/92.    
+Counselor.  
+11/91-10/92.    
 Residence East Group Home   
 Bellevue, Washington.  
 
-Technical Support Manager.  1/88-12/88.  
+Technical Support Manager.  
+1/88-12/88.  
 Nicholson Systems  
 Seattle, Washington.  
 
