@@ -21,20 +21,6 @@ Established and managed 2 Technical Support Departments and a Quality Control De
 ## Seminar Facilitation:	
 Twenty-five years of seminar facilitation and planning.  Presented clinical skills and best practices, motivational training and business meetings to groups of 8 to 500 participants.  Created and organized seminar content.  
 ________________________________________________________________________________________
-## PROGRAMMING COURSES:  
-
-  Python; Internet History, Technology & Security, 2015  
-  University of Michigan (Coursera)
-  
-  Beginning Game Programming with C#, currently enrolled  
-  University of Colorado  (Coursera)
-  
-  Programming with C#, currently enrolled  
-  Microsoft DEV204x (edX)
-  
-  Learn C# Track, currently enrolled  
-  TreeHouse
-
 ## EDUCATION:
 
   Child and Family Concentration, completed 79 units, 2009-2012 GPA 3.9  
@@ -52,19 +38,35 @@ ________________________________________________________________________________
 
   Computer programming certification, 1980
   Griffin College.
+  
+## PROGRAMMING COURSES:  
+
+  Python; Internet History, Technology & Security, 2015  
+  University of Michigan (Coursera)
+  
+  Beginning Game Programming with C#, currently enrolled  
+  University of Colorado  (Coursera)
+  
+  Programming with C#, currently enrolled  
+  Microsoft DEV204x (edX)
+  
+  Learn C# Track, currently enrolled  
+  TreeHouse
 
 ## INTERNSHIPS:
-100 hours working with a Ph.D., in child custody evaluations; 200 hours working with a Ph.D., working with male sexually violent predators; 1285 hours working with an L.C.S.W., specializing in trauma with adults, adolescents, children and families.  Co-created and co-facilitated a 5-day Summer Intensive Workshop titled: Applying the Trauma Model to Equine Assisted Psychotherapy.  
+* 100 hours working with a Ph.D., in child custody evaluations; 200 hours working with a Ph.D., with male sexually violent predators.   
+* 1285 hours working with an L.C.S.W., specializing in trauma with adults, adolescents, children and families.  
+* Co-created and co-facilitated a 5-day Summer Intensive Workshop titled: Applying the Trauma Model to Equine Assisted Psychotherapy.  
 ___________________________________________________________________________________________________________________________________________________
 ## PROFESSIONAL MEMBERSHIPS LICENSING:
-Licensed Professional Counselor, Idaho - LPC-5424
-Licensed Associate Counselor, Arizona – LAC-16342
-Dialectical Behavior Therapy Certified
-Certified Anger Management Facilitator
-Equine Assisted Growth & Learning Association - Certified
-Chaplain Fellowship Ministries – ordained & licensed chaplain
-American Association of Christian Counselors
-National Association of Christian Ministers
+Licensed Professional Counselor, Idaho - LPC-5424  
+Licensed Associate Counselor, Arizona – LAC-16342  
+Dialectical Behavior Therapy Certified  
+Certified Anger Management Facilitator  
+Equine Assisted Growth & Learning Association - Certified  
+Chaplain Fellowship Ministries – ordained & licensed chaplain  
+American Association of Christian Counselors  
+National Association of Christian Ministers  
 _______________________________________________________________________________________
 ## SEMINARS/WORKSHOPS:
 * Eye Movement Desensitization and Reprocessing (EMDR)
