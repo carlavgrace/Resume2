@@ -3,10 +3,10 @@
 #### carlavgrace@gmail.com  
 #### 208-290-4362
 
-## OBJECTIVE:  
+## Objective:  
 Seeking to re-enter the tech field as a Software Developer
 
-## QUALIFICATIONS SUMMARY:
+## Summary:
 Systems analysis… troubleshooting computer system problems…computer system installation and software training…facilitating training seminars… business management…personnel administration and supervision… strong research skills…equine assisted mental health…marriage and family therapy… child custody evaluations… victims of sex trafficking…clinical hypnosis…Certified Anger Management Facilitator …community service
 
 ## Programming Languages:	
@@ -21,7 +21,7 @@ Established and managed 2 Technical Support Departments and a Quality Control De
 ## Seminar Facilitation:	
 Twenty-five years of seminar facilitation and planning.  Presented clinical skills and best practices, motivational training and business meetings to groups of 8 to 500 participants.  Created and organized seminar content.  
 ________________________________________________________________________________________
-## EDUCATION:
+## Education:
 
   Child and Family Concentration, completed 79 units, 2009-2012 GPA 3.9  
   California School of Professional Psychology/Alliant International University.
@@ -39,7 +39,7 @@ ________________________________________________________________________________
   Computer programming certification, 1980
   Griffin College.
   
-## PROGRAMMING COURSES:  
+## Programming Courses:  
 
   Python; Internet History, Technology & Security, 2015  
   University of Michigan (Coursera)
@@ -53,12 +53,12 @@ ________________________________________________________________________________
   Learn C# Track, currently enrolled  
   TreeHouse
 
-## INTERNSHIPS:
+## Internships:
 * 100 hours working with a Ph.D., in child custody evaluations; 200 hours working with a Ph.D., with male sexually violent predators.   
 * 1285 hours working with an L.C.S.W., specializing in trauma with adults, adolescents, children and families.  
 * Co-created and co-facilitated a 5-day Summer Intensive Workshop titled: Applying the Trauma Model to Equine Assisted Psychotherapy.  
 ___________________________________________________________________________________________________________________________________________________
-## PROFESSIONAL MEMBERSHIPS LICENSING:
+## Professional Memberships and Licenses:
 Licensed Professional Counselor, Idaho - LPC-5424  
 Licensed Associate Counselor, Arizona – LAC-16342  
 Dialectical Behavior Therapy Certified  
@@ -68,7 +68,7 @@ Chaplain Fellowship Ministries – ordained & licensed chaplain
 American Association of Christian Counselors  
 National Association of Christian Ministers  
 _______________________________________________________________________________________
-## SEMINARS/WORKSHOPS:
+## Seminars/Workshops:
 * Eye Movement Desensitization and Reprocessing (EMDR)
 * Dialectical Behavior Therapy (DBT) 
 * The Milton H. Erickson Foundation, Inc., Fundamental, Intermediate and Advanced  
@@ -87,17 +87,17 @@ ________________________________________________________________________________
 * Centered Method for Birthing through Hypnosis.  Certification. 
 * Seattle Midwifery School Labor Support Course, Part 1 & 2. 
 _______________________________________________________________________________________________________________________________________
-## SOFTWARE:	
+## Software:	
 MS Word…MS PowerPoint…MS Excel…MS OneNote…MS Outlook…TheraScribe… Inspiration… InspireData…QuickBooks…Genogram-Maker Millennium.
 
-## VOLUNTEER:	
+## Volunteer:	
 Hospital Chaplain…Facilitator Celebrate Recovery...Hospital Auntie at Children’s Hospital…Board Member for Residence East Group Home…CASA volunteer (Court Appointed Special Advocate).
 
-## STRENGTHS:	
+## Strengths:	
 Energetic…detail oriented…reliable…able to manage diverse responsibilities …thorough … efficient…dedicated with superior leadership experience.
 _______________________________________________________________________________________________________________________________________
 
-## PROFESSIONAL EXPERIENCE:
+## Professional Experience:
  
 Clinical Director/Therapist.    
 2/13 to present.    
