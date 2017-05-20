@@ -1,6 +1,6 @@
 # Resume2kkk
 
-.center[Carla Grace] 
+->Carla Grace<-  
  ## carlavgrace@gmail.com  
  ## 208-290-4362  
 
