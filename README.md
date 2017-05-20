@@ -1,12 +1,8 @@
 # Resume2kkk
-<p align="center">
-<b>Carla Grace<b> </p>  
 
-<p align="center">
-<b>carlavgrace@gmail.com <b> </p>  
- 
-<p align="center">
-<b>208-290-4362 <b> </p>  
+# Carla Grace   
+## carlavgrace@gmail.com  
+## 208-290-4362
 
 ## OBJECTIVE:  
 Seeking to re-enter the tech field as a Software Developer
